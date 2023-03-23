@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * nul: Multiply two integers
+ * 2_mul: Multiply two integers
  * @a: first integer
  * @b: second integer
  *
