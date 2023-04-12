@@ -22,7 +22,7 @@ char *argstostr(int ac, char **av)
 	{
 
 		len = 0;
-		while (ac[i][len] != '\0')
+		while (av[i][len] != '\0')
 		{
 			len++;
 			total_len++;
